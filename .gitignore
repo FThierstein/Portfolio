@@ -1,0 +1,5 @@
+﻿results/
+data/commodities.csv
+__pycache__/
+*.pyc
+.vscode/
